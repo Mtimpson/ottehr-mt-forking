@@ -5,18 +5,11 @@
                 src="https://assets-global.website-files.com/653fce065d76f84cf31488ae/6543bdda5daec299834a748e_otter%20logo%20white.svg" 
                 alt="Otter Logo" 
                 id="logo" 
+                style="filter: invert(1);"
             />
         </a><br>
     </b>
 </h1>
-
-<style>
-    @media (prefers-color-scheme: dark) {
-        #logo {
-            filter: invert(1);
-        }
-    }
-</style>
 
 # Ottehr
 
