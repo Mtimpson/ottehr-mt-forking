@@ -1,11 +1,15 @@
 <h1 align="center">
-   <b>
+    <b>
         <a href="https://www.ottehr.com/">
             <img 
-                src="https://assets-global.website-files.com/653fce065d76f84cf31488ae/6543bdda5daec299834a748e_otter%20logo%20white.svg" 
+                src="https://assets-global.website-files.com/653fce065d76f84cf31488ae/6543bdda5daec299834a748e_otter%20logo%20white.svg#gh-dark-mode-only" 
                 alt="Otter Logo" 
                 id="logo" 
-                style="filter: invert(1);"
+            />
+             <img 
+                src="https://assets-global.website-files.com/653fce065d76f84cf31488ae/65438838a5f9308ca9498887_otter%20logo%20dark.svg#gh-light-mode-only" 
+                alt="Otter Logo" 
+                id="logo" 
             />
         </a><br>
     </b>
